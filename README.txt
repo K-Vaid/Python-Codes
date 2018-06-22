@@ -1,1 +1,1 @@
-Welcome to GIT Kunal
+Please Download Data for Human Activity Recognisation Project
